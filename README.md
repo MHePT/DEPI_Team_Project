@@ -6,11 +6,11 @@ Welcome to our team's final project for the DEPI Cisco Cybersecurity Engineer Tr
 
 ## Team Members
 We are a team of five enthusiastic Cisco cybersecurity engineers:
-1. **[Mohamad El Henawy]** (Team Lead)
-2. [Mustafa Gomaa]
-3. [Mohammed Quandel]
-4. [Youssef Samuel]
-5. [Abdallah Sleim]
+1. **Mohamad El Henawy** (Team Lead)
+2. Mustafa Gomaa
+3. Mohammed Quandel
+4. Youssef Samuel
+5. Abdallah Sleim
 
 ---
 
