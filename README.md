@@ -28,7 +28,7 @@ Our project focuses on designing, implementing, and securing a small network for
 ### 1. **IP Addressing Table** (Mustafa Gomaa)
 - Designed and documented a detailed IP addressing scheme for all network devices.
 
-### 2. **Initial Configuration**
+### 2. **Initial Configuration** (Mohammed Quandel)
 - Configured routers and switches with:
   - Hostnames
   - SSH-only access
