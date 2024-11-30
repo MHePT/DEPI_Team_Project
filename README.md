@@ -25,7 +25,7 @@ Our project focuses on designing, implementing, and securing a small network for
 
 ## Tasks and Deliverables
 
-### 1. **IP Addressing Table**
+### 1. **IP Addressing Table** (Mustafa Gomaa)
 - Designed and documented a detailed IP addressing scheme for all network devices.
 
 ### 2. **Initial Configuration**
