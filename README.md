@@ -37,16 +37,16 @@ Our project focuses on designing, implementing, and securing a small network for
   - DHCP for dynamic IP allocation
   - Additional essential configurations for basic functionality
 
-### 3. **OSPF Routing**
+### 3. **OSPF Routing** (Mohamad El Henawy)
 - Implemented **OSPF (Open Shortest Path First)** for dynamic routing between network segments.
 
-### 4. **VLANs and Inter-VLAN Routing**
+### 4. **VLANs and Inter-VLAN Routing** (Youssef Samuel)
 - Configured:
   - VLANs for network segmentation
   - VLAN trunks
   - Inter-VLAN routing using the **Router-on-a-Stick** method
 
-### 5. **Network Security**
+### 5. **Network Security** (Abdallah Sleim)
 - Enhanced security by implementing:
   - Port security
   - Access Control Lists (ACLs)
